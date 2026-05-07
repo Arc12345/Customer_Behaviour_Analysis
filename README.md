@@ -1,4 +1,4 @@
-# 🛍️ Customer Behaviour Analysis
+#  Customer Behaviour Analysis
 
 ## 📌 Project Overview
 
