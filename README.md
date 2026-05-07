@@ -163,5 +163,5 @@ Contributions, suggestions, and improvements are welcome.
 
 ## 👨‍💻 Author
 
-**Arijit Roy**  
-Data Analytics Enthusiast | Python | SQL | Power BI | Business Intelligence
+**Arijit Roy Chowdhury**  
+Data Analytics | Python | SQL | Power BI | Business Intelligence
